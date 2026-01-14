@@ -13,9 +13,6 @@ Aplikasi desktop Java untuk pengelolaan peminjaman dan pengembalian buku.
 ## 🚀 Fitur User
 - Melihat katalog buku
 
-## 📸 Screenshot
-![UI](assets/ui.png)
-
 ## 🛠️ Yang Digunakan
 - Java Swing
 - MySQL
@@ -23,6 +20,4 @@ Aplikasi desktop Java untuk pengelolaan peminjaman dan pengembalian buku.
 - NetBeans
 
 ## 📸 ER Diagram
-1. Import database
-2. Buka di NetBeans
-3. Run File
+
