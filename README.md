@@ -20,5 +20,6 @@ Aplikasi desktop Java untuk pengelolaan peminjaman dan pengembalian buku.
 - NetBeans
 
 ## 📸 ER Diagram
-![](assets/inierd.png)
+![](assets/ini%20erd.drawio.png)
+![](assets/ini%20juga%20erd.drawio.png)
 
