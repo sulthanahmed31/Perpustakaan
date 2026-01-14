@@ -23,3 +23,5 @@ Aplikasi desktop Java untuk pengelolaan peminjaman dan pengembalian buku.
 ![](assets/ini%20erd.drawio.png)
 ![](assets/ini%20juga%20erd.drawio.png)
 
+## 📊Dokumentasi Perpustakaan
+📊 [Data Peminjaman](dokumentasi%20data%perpus.xlsx)
